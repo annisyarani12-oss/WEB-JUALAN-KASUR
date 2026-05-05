@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KasurPulas | About Us</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">Kasur<span>Pulas</span></div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="produk.html">Produk</a></li>
+            <li><a href="order.html">Order</a></li>
+            <li><a href="kontak.html">Kontak</a></li>
+        </ul>
+    </header>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h2>Mengapa KasurPulas?</h2>
+            <div class="about-flex">
+                <div class="about-item">
+                    <h3>Material Premium</h3>
+                    <p>Menggunakan Latex alami dan kain rajut yang sejuk di kulit.</p>
+                </div>
+                <div class="about-item">
+                    <h3>Garansi 10 Tahun</h3>
+                    <p>Kami menjamin ketahanan pegas dan busa untuk jangka panjang.</p>
+                </div>
+                <div class="about-item">
+                    <h3>Pengiriman Gratis</h3>
+                    <p>Layanan antar sampai ke kamar tidur Anda tanpa biaya tambahan.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-bottom">
+            <p>&copy; 2026 KasurPulas Indonesia. Dibuat dengan ❤️.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
